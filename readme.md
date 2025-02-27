@@ -7,7 +7,9 @@ This repository contains Solidity smart contracts that enable the fractionalizat
 The system consists of two main contracts:
 
 1. **PropertyToken**: An ERC-20 compliant token representing fractional ownership of a single property
+Deployed address on polygon : 0xbF87af3C9eC0C86dEF0a66156DDe41167df95C23 
 2. **PropertyTokenFactory**: A factory contract that creates and manages multiple PropertyToken contracts
+Deployed address on polygon : 0xa4d30c2012Cea88c81e4b291dD689D5250a8fB11  
 
 ## Features
 
